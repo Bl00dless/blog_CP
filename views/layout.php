@@ -12,7 +12,7 @@
     <?php require_once('routes.php'); ?>
 
     <footer>
-      ----------------
+      -----------------
     </footer>
   <body>
 <html>
